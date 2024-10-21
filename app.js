@@ -6,5 +6,5 @@ const frinds = "danial";
 const likepost = "true";
 
 const test= () => {
-  return true :
+  return true ;
 }
