@@ -8,3 +8,7 @@ const likepost = "true";
 const test= () => {
   return true ;
 }
+
+const test2 = () => {
+  return false ;
+}
