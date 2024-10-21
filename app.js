@@ -4,3 +4,7 @@ const age = 20;
 
 const frinds = "danial";
 const likepost = "true";
+
+const test= () => {
+  return true :
+}
