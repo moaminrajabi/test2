@@ -5,10 +5,14 @@ const age = 20;
 const frinds = "danial";
 const likepost = "true";
 
-const test= () => {
-  return true ;
-}
+const test = () => {
+  return true;
+};
 
 const test2 = () => {
-  return false ;
-}
+  return false;
+};
+
+const setcoment = (comment) => {
+  return comment;
+};
