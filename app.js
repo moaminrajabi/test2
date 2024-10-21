@@ -16,3 +16,5 @@ const test2 = () => {
 const setcoment = (comment) => {
   return comment;
 };
+
+const arr = [1, 2, 3, 4];
