@@ -17,4 +17,4 @@ const setcoment = (comment) => {
   return comment;
 };
 
-const arr = [1, 2, 3, 4];
+const paradise = ["mohammad" , "danial"] ;
